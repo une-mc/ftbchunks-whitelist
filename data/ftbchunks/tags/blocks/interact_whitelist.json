@@ -1,6 +1,8 @@
 {
   "replace": false,
   "values": [
-    "ceconomy:trading_post"
+    "ceconomy:trading_post",
+    "minecraft:rail"
+
   ]
 }

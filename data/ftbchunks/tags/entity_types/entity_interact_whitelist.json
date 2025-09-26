@@ -1,0 +1,81 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:boat",
+      "required": false
+    },
+    {
+      "id": "minecraft:chest_boat",
+      "required": false
+    },
+    {
+      "id":"minecraft:minecart",
+      "required": false
+    },
+    {
+      "id":"minecraft:chest_minecart",
+      "required": false
+    },
+    {
+      "id":"minecraft:hopper_minecart",
+      "required": false
+    },
+    {
+      "id":"minecraft:tnt_minecart",
+      "required": false
+    },
+    {
+      "id":"minecraft:furnace_minecart",
+      "required": false
+    },
+    {
+      "id":"une-mod:locomotive",
+      "required": false
+    },
+    {
+      "id": "minecraft:horse",
+      "required": false
+    },
+    {
+      "id": "minecraft:donkey",
+      "required": false
+    },
+    {
+      "id": "minecraft:mule",
+      "required": false
+    },
+    {
+      "id": "minecraft:skeleton_horse",
+      "required": false
+    },
+    {
+      "id": "minecraft:zombie_horse",
+      "required": false
+    },
+    {
+      "id": "minecraft:pig",
+      "required": false
+    },
+    {
+      "id": "minecraft:camel",
+      "required": false
+    },
+    {
+      "id": "minecraft:strider",
+      "required": false
+    },
+    {
+      "id": "minecraft:llama",
+      "required": false
+    },
+    {
+      "id": "minecraft:trader_llama",
+      "required": false
+    },
+    {
+      "id": "minecraft:locomotive_entity",
+      "required": false
+    }
+  ]
+}
